@@ -6,6 +6,9 @@
 - 🏆 KH정보교육원 성적향상상 수여를 받는 영광을 누렸습니다🤩
 - 📞 email : eunjibaek39@gmail.com 
 
+### 🎈Notion에 놀러오세요- [eeeunz-Notion](https://www.notion.so/Hello-eeeun_g-_Developer-World-354163a125c24975a44b809846dfa26f?pvs=4)
+
+
 ## 🖱Tech Stack
 
 #### Platforms & Language
