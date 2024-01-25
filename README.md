@@ -56,6 +56,10 @@
 #### 📌[Team Project]자원순환정보 공유 플랫폼 Little Eco
 '제로웨이스트'를 주제로 자원순환정보를 공유할 목적으로 프로젝트를 기획했습니다.
 
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
 <!---
 eeeunz210/eeeunz210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
