@@ -47,13 +47,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true">
 
 ## My Project📚
-#### 📌서울여행루트 추천 플랫폼 NILILI
+#### 📌[Team Project]서울여행루트 추천 플랫폼 NILILI
 주말에 놀러나가고 싶은데 어디를 갈지 모르는 사람들에게
 간단한 게임과 구독결제를 통해 여행지 소개
 이중 프로젝트 전반적인 관리와 회원관련기능(로그인,회원가입,...등등등)
 과 챗봇을 구현함으로써 사용자의 접근성을 높힘
 
-#### 📌자원순환정보 공유 플랫폼 Little Eco
+#### 📌[Team Project]자원순환정보 공유 플랫폼 Little Eco
 '제로웨이스트'를 주제로 자원순환정보를 공유할 목적으로 프로젝트를 기획했습니다.
 
 <!---
