@@ -9,6 +9,8 @@
 ### 🎈Notion에 놀러오세요- [eeeunz-Notion](https://www.notion.so/Hello-eeeun_g-_Developer-World-354163a125c24975a44b809846dfa26f?pvs=4)
 
 
+<br>
+
 ## 🖱Tech Stack
 
 #### Platforms & Language
@@ -45,6 +47,7 @@
 
 #### MyGit  <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true">
+<br>
 
 ## My Project📚
 #### 📌[Team Project]서울여행루트 추천 플랫폼 NILILI
