@@ -59,6 +59,7 @@ https://github.com/eeeunz210/SemiProject.git <br>
 과 챗봇을 구현함으로써 사용자의 접근성을 높힘
 
 #### 📌[Team Project]자원순환정보 공유 플랫폼 Little Eco
+https://github.com/eeeunz210/littleEco.git <br>
 '제로웨이스트'를 주제로 자원순환정보를 공유할 목적으로 프로젝트를 기획했습니다.
 
 
