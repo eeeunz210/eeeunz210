@@ -52,6 +52,7 @@
 
 ## My Project📚
 #### 📌[Team Project]서울여행루트 추천 플랫폼 NILILI
+https://github.com/eeeunz210/SemiProject.git <br>
 주말에 놀러나가고 싶은데 어디를 갈지 모르는 사람들에게
 간단한 게임과 구독결제를 통해 여행지 소개
 이중 프로젝트 전반적인 관리와 회원관련기능(로그인,회원가입,...등등등)
