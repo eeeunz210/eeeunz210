@@ -65,7 +65,6 @@ https://github.com/eeeunz210/littleEco.git <br>
 자원순환, 자연보호에 관련한 정보를 공유하는 플랫폼을 개발하였습니다.<br> 
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 <!---
