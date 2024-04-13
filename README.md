@@ -50,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true">
 <br>
 
-## My Project📚
+## 📚My Project📚
 #### 📌[Team Project]서울여행루트 추천 플랫폼 NILILI
 https://github.com/eeeunz210/SemiProject.git <br>
 주말에 놀러나가고 싶은데 어디를 갈지 모르는 사람들에게 간단한 게임과 구독결제를 통해 여행지를 소개하고 <br>
@@ -62,7 +62,7 @@ https://github.com/eeeunz210/littleEco.git <br>
 '제로웨이스트'를 주제로 자원순환정보를 공유할 목적으로 프로젝트를 기획했습니다.<br>
 제로웨이스트를 중심으로 자원순환과 업사이클링을 목적으로 제품을 생산하는 브랜드를 선정하여 <br> 
 유저가 회원가입시 선택한 관심에 맞추어 브랜드를 추천하고 <br>
-자원순환, 자연보호에 관련한 정보를 공유하는 플랫폼을 개발하였습니다.<br> 
+자원순환, 자연보호에 관련한 정보들을 공유하는 플랫폼을 개발하였습니다.<br> 
 
 
 
