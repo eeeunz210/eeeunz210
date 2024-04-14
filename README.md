@@ -15,7 +15,7 @@
 ## 🖱Tech Stack
 
 #### Platforms & Language
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -33,7 +33,7 @@
 <br>
 
 #### Tools
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Tool Suite-6DB33F?style=flat&logo=Spting Tool Suite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -49,16 +49,22 @@
 <br>
 
 #### MyGit  <br><br>
+<div align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true">
-<br>
+</div>
+  <br>
 
 ## 📚My Project📚
+
+<div align="center">
+
+  
 #### 📌[Team Project]서울여행루트 추천 플랫폼 NILILI
 <img src="https://github.com/eeeunz210/SemiProject/raw/main/png/00_main.png"> <br>
 https://github.com/eeeunz210/SemiProject.git <br>
 주말에 놀러나가고 싶은데 어디를 갈지 모르는 사람들에게 간단한 게임과 구독결제를 통해 여행지를 소개하고 <br>
 이중 프로젝트 전반적인 관리와 회원관련기능(로그인,회원가입,...등등등)을 구현 <br> 
-메인화면에 챗봇을 구현함으로써 사용자의 편리성과 접근성을 높힐수 있도록 구성하여 개발하였습니다. <br>
+메인화면에 챗봇을 구현함으로써 사용자의 편리성과 접근성을 높힐수 있도록 구성하여 개발하였습니다. <br><br><br>
 
 #### 📌[Team Project]자원순환정보 공유 플랫폼 Little Eco
 <img src = "https://github.com/eeeunz210/littleEco/raw/main/png/00_main.png"><br>
@@ -68,7 +74,7 @@ https://github.com/eeeunz210/littleEco.git <br>
 유저가 회원가입시 선택한 관심에 맞추어 브랜드를 추천하고 <br>
 자원순환, 자연보호에 관련한 정보들을 공유하는 플랫폼을 개발하였습니다.<br> 
 
-
+</div>
 
 
 <!---
