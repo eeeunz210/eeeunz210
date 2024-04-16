@@ -46,10 +46,17 @@
   
   
 </div>
+
+
+
+
 <br>
 
 #### MyGit  <br><br>
 <div align = "center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+  
 <img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true">
 </div>
   <br>
