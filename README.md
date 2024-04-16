@@ -61,7 +61,7 @@
 #### MyGit  <br><br>
 <div align = "center">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eeeunz210)](https://solved.ac/eeeunz210)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eunjiback)](https://solved.ac/eunjiback)
   
 <img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeunz210&layout=compact)](https://github.com/eeeunz210/github-readme-stats)
 
