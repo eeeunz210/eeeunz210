@@ -14,8 +14,11 @@
 
 ## 🖱Tech Stack
 
-#### Platforms & Language
+
 <div align="center">
+
+
+  #### ⚙Platforms & Language
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -28,12 +31,13 @@
   <img src="https://img.shields.io/badge/AJAX-3A3A42?style=flat&logo=AJAX&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
   <img src="https://img.shields.io/badge/GSON-000000?style=flat&logo=GSON&logoColor=white"/>
-</div>
+
 
 <br>
 
-#### Tools
-<div align="center">
+
+#### 🛠Tools
+
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Tool Suite-6DB33F?style=flat&logo=Spting Tool Suite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -45,10 +49,12 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   
   
+
+
+#### ✏Studying
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 </div>
-
-
-
 
 <br>
 
@@ -57,7 +63,8 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eeeunz210)](https://solved.ac/eeeunz210)
   
-<img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=eeeunz210&show_icons=true"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeunz210&layout=compact)](https://github.com/eeeunz210/github-readme-stats)
+
 </div>
   <br>
 
